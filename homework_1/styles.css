@@ -1,0 +1,18 @@
+body {
+	background-color: floralwhite;
+    font-family: arial, helvetica, serif;
+  	font-size: 1.1em;
+    width: 60%;
+    padding: 8%;
+	margin: auto;
+    }
+h1, h2 {
+    text-align: center;
+}
+
+img.wrap { 
+	float: left;
+	padding: 1px 2px;
+	margin: 0 12px;
+    border: groove 6px pink;
+	}
